@@ -1,4 +1,4 @@
-# Nanopore-PBI-Fingerprinting
+# nanopore-pbi-fingerprinting
 ## Data analysis code for Makhamreh, A., Fallahi A., et al.
 ### Requirements:
 
